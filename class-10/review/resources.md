@@ -1,7 +1,7 @@
 # Review Resources
 
-- [repl](https://replit.com/~) -- JavaScript
-- [codepen](https://codepen.io/your-work) -- HTML & CSS
+- REPLIT [https://replit.com/~](https://replit.com/~) -- JavaScript
+- Codepen [https://codepen.io/your-work](https://codepen.io/your-work) -- HTML & CSS
 
 TERMINAL COMMANDS
 
